@@ -1,5 +1,5 @@
 # Paper : 
-
+```
 @inproceedings{Kyong:2017:ISA:3056662.3056686,
  author = {Kyong, Joohyun and Jeon, Jinwoo and Lim, Sung-Soo},
  title = {Improving Scalability of Apache Spark-based Scale-up Server Through Docker Container-based Partitioning},
@@ -17,6 +17,6 @@
  address = {New York, NY, USA},
  keywords = {apache spark, docker, salability, scale-up},
 } 
-
+```
 
 [Docker Container-based Scalable Partitioning for Apache Spark Scale-up Server Scalability](jaildocker.pdf)
